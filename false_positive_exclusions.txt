@@ -1,10 +1,12 @@
 APClips
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
 LessWrong
+LiveJournal
 LushStories
 PepperIT
 PocketStars
@@ -16,4 +18,6 @@ Topcoder
 Weblate
 YandexMusic
 opennet
+programming.dev
 svidbook
+xHamster
