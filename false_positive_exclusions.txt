@@ -3,10 +3,9 @@ Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
+Gravatar
 HackerEarth
 Heavy-R
-LessWrong
-LiveJournal
 LushStories
 PepperIT
 PocketStars
@@ -17,7 +16,4 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-opennet
-programming.dev
 svidbook
-xHamster
