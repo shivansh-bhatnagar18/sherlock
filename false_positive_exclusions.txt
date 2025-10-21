@@ -1,14 +1,13 @@
 APClips
-Audiojungle
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
-LessWrong
+LushStories
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
@@ -16,5 +15,5 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-opennet
 svidbook
+xHamster
