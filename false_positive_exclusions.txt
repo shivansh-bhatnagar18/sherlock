@@ -1,5 +1,4 @@
 APClips
-DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
