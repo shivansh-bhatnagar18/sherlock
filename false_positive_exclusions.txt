@@ -1,6 +1,6 @@
 APClips
-Audiojungle
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -10,7 +10,6 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
 Topcoder
@@ -18,3 +17,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
