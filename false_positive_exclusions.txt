@@ -1,6 +1,5 @@
 APClips
-Audiojungle
-Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
