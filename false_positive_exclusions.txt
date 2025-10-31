@@ -1,5 +1,5 @@
 APClips
-DeviantArt
+Chess
 GNOME VCS
 Giphy
 HackerEarth
@@ -16,3 +16,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
