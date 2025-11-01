@@ -1,9 +1,10 @@
 APClips
-Chess
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
 LessWrong
+Lobsters
 LushStories
 PepperIT
 PocketStars
@@ -15,5 +16,6 @@ Topcoder
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
 xHamster
