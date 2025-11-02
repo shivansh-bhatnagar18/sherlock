@@ -1,10 +1,10 @@
 APClips
-DeviantArt
+BoardGameGeek
 GNOME VCS
 Giphy
 HackerEarth
+Itch.io
 LessWrong
-Lobsters
 LushStories
 PepperIT
 PocketStars
