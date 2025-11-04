@@ -1,5 +1,5 @@
 APClips
-DeviantArt
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
@@ -13,6 +13,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
-opennet
 phpRU
 svidbook
+xHamster
