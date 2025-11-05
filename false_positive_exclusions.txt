@@ -1,4 +1,5 @@
 APClips
+Academia.edu
 Coders Rank
 GNOME VCS
 Giphy
@@ -9,10 +10,10 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
 Weblate
 YandexMusic
-phpRU
+opennet
 svidbook
-xHamster
