@@ -1,6 +1,6 @@
 APClips
-Academia.edu
-Coders Rank
+Anilist
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -10,10 +10,10 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
-SpeakerDeck
 Splice
 Spotify
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
