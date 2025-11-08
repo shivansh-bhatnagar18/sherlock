@@ -1,6 +1,7 @@
 APClips
 Archive.org
-DeviantArt
+CGTrader
+Carbonmade
 GNOME VCS
 Giphy
 HackerEarth
@@ -10,6 +11,7 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
 Weblate
