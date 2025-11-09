@@ -1,17 +1,17 @@
 APClips
 Archive.org
-CGTrader
-Carbonmade
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
+Itch.io
 LessWrong
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
 Weblate
@@ -19,3 +19,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
