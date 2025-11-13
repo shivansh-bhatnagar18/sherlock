@@ -1,18 +1,22 @@
 APClips
 Archive.org
+Audiojungle
+Blogger
 DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
-LessWrong
 LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
 Weblate
 YandexMusic
+nnRU
 opennet
+phpRU
 svidbook
