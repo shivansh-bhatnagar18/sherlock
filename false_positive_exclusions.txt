@@ -1,7 +1,5 @@
 APClips
 Archive.org
-Audiojungle
-Blogger
 DeviantArt
 GNOME VCS
 Giphy
@@ -11,12 +9,10 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
-SpeakerDeck
 Splice
 Spotify
 Weblate
 YandexMusic
-nnRU
 opennet
 phpRU
 svidbook
