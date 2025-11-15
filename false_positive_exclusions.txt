@@ -1,9 +1,12 @@
 APClips
 Archive.org
+Carbonmade
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
+LessWrong
 LushStories
 PepperIT
 PocketStars
