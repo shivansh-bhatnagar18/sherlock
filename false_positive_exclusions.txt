@@ -1,9 +1,10 @@
 APClips
 Archive.org
-Coders Rank
+Carbonmade
 DeviantArt
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
 LushStories
 PepperIT
@@ -14,6 +15,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 phpRU
 svidbook
-xHamster
