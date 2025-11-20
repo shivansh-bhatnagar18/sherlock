@@ -1,10 +1,8 @@
 APClips
 Archive.org
-Carbonmade
 DeviantArt
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 LushStories
 PepperIT
