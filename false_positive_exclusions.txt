@@ -1,11 +1,11 @@
 APClips
 Archive.org
-DeviantArt
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
+LessWrong
 LushStories
-OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -14,5 +14,5 @@ Splice
 Spotify
 Weblate
 YandexMusic
-opennet
+phpRU
 svidbook
