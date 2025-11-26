@@ -1,6 +1,9 @@
 APClips
 Archive.org
+Blogger
+BoardGameGeek
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -14,5 +17,7 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 phpRU
 svidbook
+xHamster
