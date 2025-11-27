@@ -1,8 +1,5 @@
 APClips
 Archive.org
-Blogger
-BoardGameGeek
-Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
@@ -18,6 +15,4 @@ Spotify
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
-xHamster
