@@ -1,7 +1,5 @@
 APClips
 Archive.org
-BoardGameGeek
-Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -16,4 +14,5 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 svidbook
