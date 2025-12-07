@@ -1,15 +1,12 @@
 APClips
 Archive.org
-Chess
 Code Snippet Wiki
-Coders Rank
-DeviantArt
+GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
 LessWrong
-Lobsters
 LushStories
 PepperIT
 PocketStars
@@ -17,9 +14,7 @@ Reddit
 RocketTube
 Splice
 Spotify
-TryHackMe
 Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
