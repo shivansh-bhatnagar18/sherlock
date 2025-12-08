@@ -1,7 +1,7 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
-GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -18,3 +18,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
