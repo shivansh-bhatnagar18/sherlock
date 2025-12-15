@@ -4,7 +4,6 @@ Code Snippet Wiki
 Coders Rank
 DeviantArt
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
