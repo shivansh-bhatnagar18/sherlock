@@ -4,6 +4,7 @@ Code Snippet Wiki
 Coders Rank
 DeviantArt
 Fandom
+GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -14,10 +15,10 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
+SlideShare
 Splice
 Spotify
-Vero
 Weblate
+Wikidot
 YandexMusic
-opennet
 svidbook
