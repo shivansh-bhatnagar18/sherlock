@@ -1,8 +1,8 @@
 APClips
+Archive of Our Own
 Archive.org
 Code Snippet Wiki
 Coders Rank
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -11,6 +11,7 @@ HackerEarth
 Hubski
 LessWrong
 LushStories
+OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -19,6 +20,6 @@ SlideShare
 Splice
 Spotify
 Weblate
-Wikidot
 YandexMusic
+opennet
 svidbook
