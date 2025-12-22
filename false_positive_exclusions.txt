@@ -1,5 +1,7 @@
 APClips
+Archive.org
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -7,7 +9,6 @@ Giphy
 HackerEarth
 Hubski
 LessWrong
-LushStories
 PepperIT
 PocketStars
 Reddit
@@ -18,5 +19,7 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 phpRU
 svidbook
+xHamster
