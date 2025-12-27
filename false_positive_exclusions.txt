@@ -1,13 +1,14 @@
 APClips
 Archive.org
+Blogger
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-Itch.io
 LessWrong
 LushStories
 PepperIT
@@ -23,3 +24,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
