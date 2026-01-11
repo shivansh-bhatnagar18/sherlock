@@ -1,13 +1,15 @@
 APClips
 Archive.org
+Blogger
+CGTrader
 Code Snippet Wiki
 Fandom
-Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
+LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -21,6 +23,5 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
