@@ -1,8 +1,6 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -21,8 +19,8 @@ Smule
 Splice
 Spotify
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
