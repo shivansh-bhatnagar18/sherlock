@@ -8,6 +8,7 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
+Itch.io
 LessWrong
 LushStories
 PepperIT
@@ -22,6 +23,7 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
 xHamster
