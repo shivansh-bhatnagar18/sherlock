@@ -8,8 +8,8 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-Itch.io
 LessWrong
+LiveJournal
 LushStories
 PepperIT
 PocketStars
