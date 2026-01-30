@@ -2,13 +2,13 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-DeviantArt
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-ImgUp.cz
+LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -17,12 +17,14 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 Weblate
 YandexMusic
+igromania
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
-xHamster
