@@ -1,7 +1,7 @@
 APClips
 Archive.org
+Audiojungle
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -12,12 +12,12 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 TryHackMe
