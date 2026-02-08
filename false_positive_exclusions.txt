@@ -1,9 +1,8 @@
 APClips
 Archive.org
-Audiojungle
+Blogger
 Code Snippet Wiki
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -17,7 +16,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 TryHackMe
@@ -27,3 +25,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
