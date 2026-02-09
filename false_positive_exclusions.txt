@@ -1,14 +1,14 @@
 APClips
 Archive.org
-Blogger
 Code Snippet Wiki
+DeviantArt
 Fandom
+GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
 LessWrong
-LushStories
 PepperIT
 PocketStars
 Reddit
@@ -25,4 +25,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
