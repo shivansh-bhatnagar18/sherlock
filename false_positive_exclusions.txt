@@ -1,5 +1,8 @@
 APClips
 Archive.org
+BitBucket
+BoardGameGeek
+Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
