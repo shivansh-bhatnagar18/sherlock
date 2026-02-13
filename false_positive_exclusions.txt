@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Chess
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -8,8 +9,6 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-LessWrong
-LushStories
 PepperIT
 PocketStars
 Reddit
@@ -23,7 +22,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
