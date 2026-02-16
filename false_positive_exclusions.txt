@@ -7,6 +7,7 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
+Linktree
 LushStories
 PepperIT
 PocketStars
@@ -17,7 +18,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 TryHackMe
 Weblate
 YandexMusic
