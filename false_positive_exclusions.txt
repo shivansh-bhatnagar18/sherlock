@@ -19,7 +19,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Tiendanube
 TryHackMe
 Weblate
 YandexMusic
@@ -27,4 +26,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
