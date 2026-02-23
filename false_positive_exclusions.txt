@@ -1,5 +1,6 @@
 APClips
 Archive.org
+BitBucket
 Code Snippet Wiki
 DeviantArt
 GNOME VCS
@@ -14,6 +15,7 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
