@@ -1,7 +1,5 @@
 APClips
 Archive.org
-DeviantArt
-Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -9,7 +7,6 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 PepperIT
 PocketStars
 Reddit
@@ -21,9 +18,9 @@ Splice
 Spotify
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
 xHamster
