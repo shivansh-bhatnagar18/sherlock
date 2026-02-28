@@ -1,6 +1,5 @@
 APClips
 Archive.org
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -14,6 +13,7 @@ PocketStars
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
