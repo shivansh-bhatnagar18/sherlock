@@ -8,6 +8,7 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 PepperIT
 PocketStars
@@ -20,10 +21,6 @@ Splice
 Spotify
 TryHackMe
 Weblate
-YandexMusic
 mercadolivre
-minds
-opennet
 phpRU
 svidbook
-xHamster
