@@ -7,6 +7,7 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
@@ -14,12 +15,12 @@ RocketTube
 Scribd
 SlideShare
 Smule
-Snapchat
 Splice
 Spotify
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
