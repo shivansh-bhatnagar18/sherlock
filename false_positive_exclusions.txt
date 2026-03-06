@@ -1,5 +1,6 @@
 APClips
 Archive.org
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -10,6 +11,7 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
+Rarible
 Reddit
 RocketTube
 Scribd
@@ -17,6 +19,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
 Weblate
 YandexMusic
