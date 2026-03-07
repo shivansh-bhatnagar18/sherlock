@@ -1,5 +1,6 @@
 APClips
 Archive.org
+CGTrader
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -7,6 +8,7 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 PepperIT
@@ -24,6 +26,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
+minds
 phpRU
 svidbook
+xHamster
