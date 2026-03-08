@@ -1,16 +1,13 @@
 APClips
 Archive.org
-CGTrader
 DeviantArt
-GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LushStories
+Linktree
 PepperIT
 PocketStars
 Rarible
@@ -27,6 +24,7 @@ Weblate
 YandexMusic
 mercadolivre
 minds
+opennet
 phpRU
 svidbook
 xHamster
