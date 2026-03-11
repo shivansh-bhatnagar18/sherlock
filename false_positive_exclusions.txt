@@ -1,7 +1,5 @@
 APClips
 Archive.org
-CGTrader
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -19,7 +17,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Strava
@@ -27,5 +24,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
