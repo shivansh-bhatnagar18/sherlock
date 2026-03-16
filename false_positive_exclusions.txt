@@ -1,5 +1,7 @@
 APClips
 Archive.org
+Eintracht Frankfurt Forum
+GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -9,6 +11,7 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 RocketTube
@@ -21,7 +24,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
+xHamster
