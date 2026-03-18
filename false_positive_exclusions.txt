@@ -1,13 +1,13 @@
 APClips
 Archive.org
 DeviantArt
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 PepperIT
 PocketStars
 Rarible
@@ -16,7 +16,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 TryHackMe
