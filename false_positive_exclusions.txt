@@ -6,9 +6,9 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 PepperIT
 PocketStars
-Pornhub
 Rarible
 Reddit
 RocketTube
@@ -20,8 +20,8 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
