@@ -1,11 +1,11 @@
 APClips
+Academia.edu
 Archive.org
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -20,7 +20,6 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
-eintracht
 mercadolivre
 opennet
 phpRU
