@@ -1,14 +1,17 @@
 APClips
-Academia.edu
 Archive.org
+DeviantArt
+DigitalSpy
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+LessWrong
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 RocketTube
@@ -24,3 +27,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
