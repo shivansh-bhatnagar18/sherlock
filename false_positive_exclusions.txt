@@ -15,6 +15,7 @@ Pornhub
 Rarible
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -23,6 +24,7 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+interpals
 mercadolivre
 opennet
 phpRU
