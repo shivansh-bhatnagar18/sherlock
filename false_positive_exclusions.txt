@@ -1,6 +1,7 @@
 7Cups
 APClips
 Archive.org
+BoardGameGeek
 DeviantArt
 Discord.bio
 GeeksforGeeks
@@ -9,6 +10,7 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 PepperIT
 PocketStars
 Rarible
