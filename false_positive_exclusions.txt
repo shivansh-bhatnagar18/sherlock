@@ -1,7 +1,6 @@
 7Cups
 APClips
 Archive.org
-BoardGameGeek
 DeviantArt
 Discord.bio
 GeeksforGeeks
@@ -13,6 +12,7 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 RocketTube
@@ -29,3 +29,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
