@@ -8,17 +8,19 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 PepperIT
 PocketStars
+Pornhub
+Rajce.net
 Rarible
 Reddit
 RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 TryHackMe
@@ -29,3 +31,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
