@@ -2,6 +2,7 @@
 APClips
 Archive.org
 Bandcamp
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -9,20 +10,18 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 PepperIT
 PocketStars
-Pornhub
 Rarible
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 interpals
@@ -30,4 +29,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
