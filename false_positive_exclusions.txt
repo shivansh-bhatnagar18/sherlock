@@ -2,7 +2,6 @@
 APClips
 Archive.org
 Bandcamp
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -13,12 +12,14 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 RocketTube
 Scribd
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 TryHackMe
@@ -29,3 +30,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
