@@ -2,7 +2,9 @@
 APClips
 Archive.org
 Bandcamp
+DeviantArt
 Discord.bio
+Dribbble
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -19,7 +21,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-Snapchat
 Splice
 Spotify
 TryHackMe
