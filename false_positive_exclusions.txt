@@ -1,7 +1,9 @@
 7Cups
 APClips
+Apple Discussions
 Archive.org
 Bandcamp
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -12,6 +14,7 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 RocketTube
@@ -21,10 +24,12 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
