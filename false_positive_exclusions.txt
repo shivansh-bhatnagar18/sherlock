@@ -3,6 +3,7 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -10,7 +11,7 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
+OurDJTalk
 PepperIT
 PocketStars
 Rarible
