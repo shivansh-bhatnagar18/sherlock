@@ -3,7 +3,7 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-DeviantArt
+Carbonmade
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -11,9 +11,10 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-OurDJTalk
+LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 RocketTube
@@ -23,7 +24,6 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
@@ -32,3 +32,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
