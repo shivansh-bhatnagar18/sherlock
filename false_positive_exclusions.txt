@@ -3,17 +3,17 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-LessWrong
+Itch.io
 LushStories
 PepperIT
+Pornhub
+Rajce.net
 Rarible
 Reddit
 RocketTube
@@ -30,4 +30,6 @@ interpals
 mercadolivre
 opennet
 phpRU
+programming.dev
 svidbook
+xHamster
