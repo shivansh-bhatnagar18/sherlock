@@ -1,8 +1,11 @@
 7Cups
 APClips
+Airliners
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
+Cults3D
 DeviantArt
 Discord.bio
 GeeksforGeeks
@@ -11,7 +14,9 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 PepperIT
+Pornhub
 Rarible
 Reddit
 RocketTube
@@ -21,6 +26,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Venmo
 Weblate
 YandexMusic
 dailykos
@@ -29,3 +35,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
