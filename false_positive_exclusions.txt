@@ -12,10 +12,8 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
 PepperIT
-Python.org Discussions
 Rarible
 Reddit
 RocketTube
@@ -33,3 +31,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
