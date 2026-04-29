@@ -4,8 +4,7 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
-DeviantArt
+Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -15,11 +14,9 @@ Hubski
 LessWrong
 LushStories
 PepperIT
-Pornhub
 Rarible
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -35,4 +32,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
