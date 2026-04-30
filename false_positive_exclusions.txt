@@ -3,17 +3,19 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
+ArtStation
 Bandcamp
-Cults3D
+DeviantArt
 Discord.bio
+Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 PepperIT
+Pornhub
 Rarible
 Reddit
 RocketTube
@@ -23,7 +25,6 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
@@ -32,3 +33,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
