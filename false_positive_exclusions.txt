@@ -4,10 +4,7 @@ Airliners
 Apple Discussions
 Archive.org
 ArtStation
-Audiojungle
 Bandcamp
-CGTrader
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,7 +13,6 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 PepperIT
 Pornhub
 Rarible
@@ -38,4 +34,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
