@@ -1,10 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,6 +17,7 @@ LessWrong
 LushStories
 Motherless
 PepperIT
+Pornhub
 Rarible
 Reddit
 RocketTube
@@ -35,3 +37,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
