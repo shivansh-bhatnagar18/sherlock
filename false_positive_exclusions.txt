@@ -1,8 +1,6 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
-Archive.org
 ArtStation
 Bandcamp
 DeviantArt
@@ -17,7 +15,6 @@ LessWrong
 LushStories
 Motherless
 PepperIT
-Pornhub
 Rarible
 Reddit
 RocketTube
@@ -37,4 +34,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
