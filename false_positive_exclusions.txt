@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -13,7 +12,7 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-LessWrong
+Itch.io
 LushStories
 Motherless
 PepperIT
@@ -36,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
