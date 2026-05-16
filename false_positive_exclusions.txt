@@ -12,10 +12,10 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
+LessWrong
 LushStories
-Motherless
 PepperIT
+Rajce.net
 Rarible
 Reddit
 RocketTube
@@ -28,6 +28,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
