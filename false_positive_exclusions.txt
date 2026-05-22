@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -15,7 +14,6 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 PepperIT
 Pornhub
 Rarible
@@ -36,4 +34,5 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 svidbook
