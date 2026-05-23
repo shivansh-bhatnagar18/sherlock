@@ -14,10 +14,12 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 PepperIT
 Pornhub
 Rarible
 Reddit
+Replit.com
 RocketTube
 Scribd
 SlideShare
@@ -36,3 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
