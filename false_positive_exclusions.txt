@@ -1,10 +1,12 @@
 7Cups
 APClips
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
 DeviantArt
 Discord.bio
 Envato Forum
@@ -13,7 +15,6 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-LessWrong
 LushStories
 PepperIT
 Pornhub
@@ -22,6 +23,7 @@ Reddit
 Replit.com
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
