@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -13,7 +14,6 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 PepperIT
@@ -23,7 +23,6 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
@@ -39,4 +38,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
