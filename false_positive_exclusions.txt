@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -17,8 +15,6 @@ Hubski
 LessWrong
 LushStories
 PepperIT
-Pornhub
-Rajce.net
 Rarible
 Reddit
 Replit.com
@@ -39,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
