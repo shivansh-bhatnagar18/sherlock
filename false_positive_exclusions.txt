@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,17 +6,18 @@ Archive.org
 ArtStation
 Bandcamp
 Cults3D
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 HackerEarth
 Hashnode
 Hubski
 LessWrong
 LushStories
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
