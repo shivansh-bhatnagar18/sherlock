@@ -5,8 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Cults3D
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,7 +14,6 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 PepperIT
 Rarible
 Reddit
@@ -26,7 +23,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
