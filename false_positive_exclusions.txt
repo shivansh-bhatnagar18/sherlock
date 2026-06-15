@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -11,10 +12,13 @@ GeeksforGeeks
 Giphy
 HackenProof (Hackers)
 HackerEarth
+HackerRank
 Hashnode
 Hubski
 LessWrong
+LushStories
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -35,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
