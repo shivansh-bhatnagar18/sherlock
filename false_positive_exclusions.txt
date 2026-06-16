@@ -6,13 +6,13 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 HackenProof (Hackers)
 HackerEarth
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -39,4 +39,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
 xHamster
