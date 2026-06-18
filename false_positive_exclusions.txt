@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -18,11 +19,11 @@ PepperIT
 Rarible
 Reddit
 Replit.com
-RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
@@ -32,6 +33,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
