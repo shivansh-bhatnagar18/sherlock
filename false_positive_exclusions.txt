@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -17,16 +16,15 @@ Hubski
 LessWrong
 LushStories
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
@@ -39,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
