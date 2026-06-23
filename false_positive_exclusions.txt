@@ -6,8 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -33,11 +31,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-furaffinity
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
-xHamster
