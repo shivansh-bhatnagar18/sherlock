@@ -6,6 +6,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+BoardGameGeek
 DeviantArt
 Discord.bio
 Envato Forum
@@ -13,6 +15,7 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
+Houzz
 Hubski
 LessWrong
 LushStories
@@ -32,7 +35,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-hunting
 igromania
 interpals
 mercadolivre
