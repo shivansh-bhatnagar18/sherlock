@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,7 +17,6 @@ Houzz
 Hubski
 LessWrong
 LushStories
-OurDJTalk
 PepperIT
 Pornhub
 Rarible
@@ -39,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
