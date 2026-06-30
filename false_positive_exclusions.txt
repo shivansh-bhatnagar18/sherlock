@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -17,8 +16,9 @@ Houzz
 Hubski
 LessWrong
 LushStories
+OurDJTalk
+PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
@@ -39,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
