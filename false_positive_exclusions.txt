@@ -16,7 +16,6 @@ Houzz
 Hubski
 LessWrong
 LushStories
-OurDJTalk
 PCGamer
 PepperIT
 Rarible
