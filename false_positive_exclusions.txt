@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,6 +15,7 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LushStories
 PCGamer
@@ -39,6 +39,7 @@ fixya
 igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
