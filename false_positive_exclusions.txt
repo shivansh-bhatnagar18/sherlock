@@ -15,9 +15,9 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
+OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -25,6 +25,7 @@ Rarible
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -35,11 +36,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
+xHamster
