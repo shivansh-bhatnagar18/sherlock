@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 DeviantArt
 Discord.bio
 Envato Forum
@@ -20,7 +18,6 @@ LessWrong
 LushStories
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
@@ -32,7 +29,6 @@ Spotify
 TryHackMe
 Velomania
 Weblate
-Weebly
 YandexMusic
 authorSTREAM
 dailykos
