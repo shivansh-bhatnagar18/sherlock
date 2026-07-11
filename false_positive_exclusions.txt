@@ -1,11 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -18,18 +18,14 @@ LessWrong
 LushStories
 PCGamer
 PepperIT
-Pornhub
-Rajce.net
 Rarible
 Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
