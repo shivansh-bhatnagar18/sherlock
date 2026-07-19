@@ -1,9 +1,8 @@
 7Cups
-APClips
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
-Archive.org
 ArtStation
 Bandcamp
 DeviantArt
@@ -17,10 +16,8 @@ Hubski
 LessWrong
 LinkedIn
 LushStories
-OurDJTalk
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
@@ -29,7 +26,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
@@ -39,7 +35,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
-xHamster
