@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,11 +14,9 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LinkedIn
 LushStories
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
@@ -28,10 +25,10 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
