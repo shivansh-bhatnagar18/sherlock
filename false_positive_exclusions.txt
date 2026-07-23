@@ -16,7 +16,6 @@ Hubski
 LessWrong
 LinkedIn
 LushStories
-OurDJTalk
 PCGamer
 PepperIT
 Rarible
@@ -29,7 +28,6 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
