@@ -24,10 +24,10 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Weblate
 YandexMusic
