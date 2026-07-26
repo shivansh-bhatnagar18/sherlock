@@ -10,7 +10,6 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Hubski
@@ -27,8 +26,8 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
