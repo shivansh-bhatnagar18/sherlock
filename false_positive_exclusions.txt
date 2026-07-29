@@ -6,15 +6,20 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+Carbonmade
 Chatujme.cz
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
+F3.cool
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+Instapaper
 LessWrong
 LinkedIn
 LushStories
@@ -25,10 +30,13 @@ Rarible
 Reddit
 Replit.com
 RocketTube
+Scribd
+Slack
 SlideShare
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
