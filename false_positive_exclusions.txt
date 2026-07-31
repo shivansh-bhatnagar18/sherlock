@@ -5,7 +5,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,12 +18,11 @@ HackerEarth
 Hashnode
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
 LushStories
+OurDJTalk
 PCGamer
-Pastebin
 PepperIT
 Rarible
 Reddit
@@ -32,8 +33,9 @@ Slack
 SlideShare
 Splice
 Spotify
-Trakt
+Strava
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
