@@ -7,21 +7,21 @@ ArtStation
 Bandcamp
 Blogger
 Chatujme.cz
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
+Flipboard
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
+Houzz
 Hubski
 Instapaper
 LessWrong
 LinkedIn
 LushStories
-OurDJTalk
 PCGamer
 PepperIT
 Rarible
@@ -29,11 +29,10 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
-Strava
+Trakt
 TryHackMe
 Velomania
 Weblate
