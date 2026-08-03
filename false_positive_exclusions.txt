@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -13,6 +12,7 @@ DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
+Flipboard
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -20,20 +20,24 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LessWrong
 LinkedIn
-LushStories
+OurDJTalk
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -46,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
