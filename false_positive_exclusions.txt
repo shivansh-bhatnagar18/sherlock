@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -19,8 +18,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
 LinkedIn
+LushStories
 PCGamer
 PepperIT
 Pornhub
@@ -30,12 +29,10 @@ Replit.com
 ReverbNation
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
