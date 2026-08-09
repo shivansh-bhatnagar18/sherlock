@@ -32,7 +32,6 @@ SlideShare
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -40,7 +39,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
