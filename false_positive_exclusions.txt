@@ -19,7 +19,6 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
-LiveJournal
 LushStories
 PCGamer
 PepperIT
@@ -38,6 +37,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+hunting
 igromania
 interpals
 mercadolivre
