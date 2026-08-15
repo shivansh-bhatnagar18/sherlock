@@ -19,8 +19,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
-OurDJTalk
+LushStories
 PCGamer
 PepperIT
 Pornhub
@@ -33,7 +34,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
@@ -44,7 +44,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
-xHamster
