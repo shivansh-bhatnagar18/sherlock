@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -19,7 +18,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
 LushStories
 PCGamer
@@ -34,8 +32,8 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -44,7 +42,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
