@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -20,6 +21,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Outgress
 PCGamer
 PepperIT
 Pornhub
@@ -32,8 +34,8 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -45,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
