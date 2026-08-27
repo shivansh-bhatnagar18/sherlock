@@ -1,11 +1,12 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
+Championat
 Chatujme.cz
 DeviantArt
 Discord.bio
@@ -13,7 +14,6 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 HackerEarth
 Hashnode
 Houzz
@@ -33,6 +33,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
