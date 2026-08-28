@@ -1,17 +1,18 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Championat
 Chatujme.cz
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
+Fosstodon
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -21,6 +22,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Open Collective
 PCGamer
 PepperIT
 Pornhub
