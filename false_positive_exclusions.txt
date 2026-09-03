@@ -22,7 +22,6 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-Linktree
 LushStories
 Open Collective
 PCGamer
@@ -30,7 +29,6 @@ PepperIT
 Pornhub
 Rarible
 Reddit
-Replit.com
 ReverbNation
 RocketTube
 Scribd
