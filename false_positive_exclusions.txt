@@ -6,14 +6,12 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
 DeviantArt
 Discord.bio
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -35,7 +33,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -50,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
