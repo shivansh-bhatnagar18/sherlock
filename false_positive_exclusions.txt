@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ColourLovers
@@ -20,7 +19,6 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LiveJournal
 LushStories
 Open Collective
 PCGamer
@@ -28,10 +26,12 @@ PepperIT
 Rarible
 Reddit
 ReverbNation
+RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
