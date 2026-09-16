@@ -19,8 +19,9 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
+Lobsters
+LushStories
 Open Collective
-OurDJTalk
 PCGamer
 PepperIT
 Rarible
@@ -31,7 +32,7 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
+Trakt
 TryHackMe
 Velomania
 Weblate
