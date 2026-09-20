@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -23,6 +24,7 @@ LessWrong
 LinkedIn
 LushStories
 Open Collective
+OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -34,9 +36,11 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -49,4 +53,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
