@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -12,7 +13,6 @@ ChaturBate
 DeviantArt
 Discord.bio
 Envato Forum
-Forum Ophilia
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -28,6 +28,7 @@ Open Collective
 PCGamer
 PepperIT
 Pornhub
+Rajce.net
 Rarible
 Reddit
 ReverbNation
@@ -51,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
