@@ -1,21 +1,19 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
-Gumroad
 HackerEarth
 Hashnode
 Houzz
@@ -39,7 +37,6 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Valorant Forums
 Velomania
 Weblate
 YandexMusic
