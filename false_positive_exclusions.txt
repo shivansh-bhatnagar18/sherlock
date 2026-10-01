@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -16,6 +15,7 @@ Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerNews
 Hashnode
 Houzz
 Hubski
@@ -34,7 +34,6 @@ ReverbNation
 RocketTube
 Scribd
 SlideShare
-Snapchat
 Splice
 Spotify
 Trakt
@@ -53,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
