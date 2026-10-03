@@ -14,16 +14,17 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
 Linktree
+LushStories
 Open Collective
 PCGamer
 PepperIT
