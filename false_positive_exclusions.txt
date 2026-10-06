@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -18,6 +19,7 @@ GeeksforGeeks
 Giphy
 HackerEarth
 HackerNews
+HackerRank
 Hashnode
 Houzz
 Hubski
@@ -38,6 +40,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -53,3 +56,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
