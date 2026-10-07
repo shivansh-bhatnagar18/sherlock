@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -10,7 +9,6 @@ Blogger
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,7 +17,6 @@ GeeksforGeeks
 Giphy
 HackerEarth
 HackerNews
-HackerRank
 Hashnode
 Houzz
 Hubski
@@ -31,7 +28,6 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -56,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
