@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -12,10 +11,12 @@ Chatujme.cz
 ChaturBate
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gumroad
 HackerEarth
 HackerNews
 Hashnode
@@ -25,11 +26,11 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
-LiveJournal
 LushStories
 Open Collective
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -38,7 +39,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Tenor
 Trakt
 TryHackMe
 Velomania
@@ -54,4 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
