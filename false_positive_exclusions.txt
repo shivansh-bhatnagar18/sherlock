@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -28,7 +27,6 @@ LinkedIn
 Linktree
 LushStories
 Open Collective
-OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -40,6 +38,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
