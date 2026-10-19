@@ -1,15 +1,12 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 DeviantArt
 Discord.bio
 Envato Forum
@@ -22,6 +19,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LessWrong
 LinkedIn
 Linktree
@@ -29,7 +27,7 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
-Pornhub
+Rajce.net
 Rarible
 Reddit
 ReverbNation
@@ -38,7 +36,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
