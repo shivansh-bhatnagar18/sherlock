@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
 DeviantArt
@@ -19,23 +20,22 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
 Linktree
-LushStories
 Open Collective
 PCGamer
 PepperIT
-Rajce.net
 Rarible
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
