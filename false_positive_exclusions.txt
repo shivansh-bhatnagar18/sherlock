@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blipfoto
 CGTrader
 Championat
 Chatujme.cz
@@ -23,15 +21,14 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
 Linktree
-LushStories
+NationStates Nation
+NationStates Region
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -48,7 +45,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
 mercadolivre
@@ -56,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
