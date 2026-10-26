@@ -5,9 +5,11 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 DeviantArt
 Discord.bio
 Envato Forum
@@ -25,6 +27,7 @@ LinkedIn
 Linktree
 Open Collective
 PCGamer
+Pastebin
 PepperIT
 Rarible
 Reddit
@@ -34,7 +37,7 @@ Scribd
 SlideShare
 Splice
 Spotify
-Strava
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -42,7 +45,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-hunting
 interpals
 mercadolivre
 opennet
