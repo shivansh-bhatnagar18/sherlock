@@ -1,12 +1,10 @@
-7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -16,6 +14,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gumroad
 HackerEarth
 HackerNews
 Hashnode
@@ -27,7 +26,6 @@ LinkedIn
 Linktree
 Open Collective
 PCGamer
-Pastebin
 PepperIT
 Rarible
 Reddit
@@ -45,9 +43,11 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+hunting
 interpals
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
