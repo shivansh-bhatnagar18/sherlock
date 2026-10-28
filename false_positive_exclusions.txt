@@ -14,7 +14,6 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-Gumroad
 HackerEarth
 HackerNews
 Hashnode
@@ -24,6 +23,7 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
+LushStories
 Open Collective
 PCGamer
 PepperIT
@@ -38,9 +38,9 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
-authorSTREAM
 dailykos
 fixya
 hunting
@@ -50,4 +50,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
