@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -23,7 +24,6 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
-LushStories
 Open Collective
 PCGamer
 PepperIT
@@ -41,9 +41,11 @@ Velomania
 Vero
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
