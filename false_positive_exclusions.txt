@@ -14,6 +14,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gumroad
 HackerEarth
 HackerNews
 Hashnode
@@ -27,7 +28,6 @@ LushStories
 Open Collective
 PCGamer
 PepperIT
-Rarible
 Reddit
 ReverbNation
 RocketTube
@@ -37,6 +37,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
