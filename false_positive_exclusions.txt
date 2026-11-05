@@ -1,13 +1,12 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
-ChaturBate
 DeviantArt
 Discord.bio
 Envato Forum
@@ -50,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
