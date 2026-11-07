@@ -6,7 +6,6 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
-ChaturBate
 DeviantArt
 Discord.bio
 Envato Forum
@@ -34,8 +33,7 @@ Scribd
 SlideShare
 Splice
 Spotify
-Strava
-TnAFlix
+Trakt
 TryHackMe
 Velomania
 Vero
