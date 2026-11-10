@@ -5,13 +5,11 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -27,13 +25,13 @@ LinkedIn
 Linktree
 LushStories
 Open Collective
-Outgress
 PCGamer
 PepperIT
 Rarible
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -50,6 +48,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
