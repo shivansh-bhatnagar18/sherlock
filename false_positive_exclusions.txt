@@ -1,28 +1,21 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-ArtStation
-Bandcamp
+Blogger
 Championat
 Chatujme.cz
-ChaturBate
 DeviantArt
 Discord.bio
-Envato Forum
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerEarth
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
 LessWrong
 LinkedIn
-Linktree
 LushStories
 Open Collective
 PCGamer
@@ -48,8 +41,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
-xHamster
