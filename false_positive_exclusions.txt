@@ -1,8 +1,8 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 DeviantArt
@@ -11,6 +11,7 @@ GaiaOnline
 GeeksforGeeks
 HackerEarth
 HackerNews
+HackerOne
 Hashnode
 Hubski
 Instapaper
@@ -44,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
