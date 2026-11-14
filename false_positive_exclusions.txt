@@ -24,12 +24,11 @@ Rarible
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 SlideShare
-SoylentNews
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -41,7 +40,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
