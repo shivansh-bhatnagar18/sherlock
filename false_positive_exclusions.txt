@@ -16,6 +16,7 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
+LushStories
 Open Collective
 PCGamer
 PepperIT
@@ -31,7 +32,9 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wordnik
 YandexMusic
+authorSTREAM
 dailykos
 fixya
 hunting
