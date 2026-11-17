@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Championat
 Chatujme.cz
+Cplusplus
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -16,7 +17,9 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
+Linktree
 LushStories
+Minecraft
 Open Collective
 PCGamer
 PepperIT
@@ -32,7 +35,6 @@ Trakt
 TryHackMe
 Velomania
 Vero
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
