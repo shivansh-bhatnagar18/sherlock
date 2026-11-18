@@ -1,11 +1,10 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
-Cplusplus
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -19,7 +18,6 @@ LessWrong
 LinkedIn
 Linktree
 LushStories
-Minecraft
 Open Collective
 PCGamer
 PepperIT
@@ -31,7 +29,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -46,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
