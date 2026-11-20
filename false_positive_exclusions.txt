@@ -1,9 +1,8 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Carbonmade
 Chatujme.cz
 DeviantArt
 Discord.bio
@@ -14,13 +13,10 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 LessWrong
-LibraryThing
 LinkedIn
 Linktree
 LushStories
-Minecraft
 Open Collective
 PCGamer
 PepperIT
@@ -32,6 +28,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
