@@ -1,9 +1,7 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Audiojungle
 Chatujme.cz
 DeviantArt
 Discord.bio
@@ -44,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
