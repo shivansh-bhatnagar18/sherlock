@@ -3,7 +3,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Chatujme.cz
 DeviantArt
 Discord.bio
@@ -14,7 +13,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
 Linktree
@@ -30,9 +28,11 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
+Wikipedia
 YandexMusic
 authorSTREAM
 dailykos
